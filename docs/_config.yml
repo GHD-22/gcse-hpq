@@ -1,0 +1,28 @@
+title: "HPQ: UK Climate Change Policy Analysis"
+description: "An in-depth analysis of 2 UK climate change policies, ZEV Mandate and Contracts for Difference, evaluating their effectiveness in reducing emissions and increasing sustainable transportation."
+theme: "just-the-docs"
+
+# Navigation
+nav_sort: case_insensitive
+
+# Footer
+footer_content: "GCSE HPQ Project"
+
+#Colour Scheme
+colour_scheme: light
+
+# Enable search bar on the site
+search_enabled: true
+
+# Back to top button
+back_to_top: true
+back_to_top_text: "Back to Top"
+
+# Heading anchor links
+heading_anchors: true
+
+aux_links:
+  "View on GitHub":
+    - "https://github.com/GHD-22/gcse-hpq"
+
+aux_links_new_tab: true
