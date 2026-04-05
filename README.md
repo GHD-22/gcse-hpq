@@ -19,7 +19,7 @@ analysing two UK Government climate policies:
 ## Live Project Website
 
 View the full project report and analysis here:  
-**https://YOUR-USERNAME.github.io/gcse-hpq**
+**https://GHD-22.github.io/gcse-hpq**
 
 ---
 
@@ -68,8 +68,4 @@ gcse-hpq/
 
 ---
 
-## Submission Details
 
-- **School:** [School Name]
-- **Candidate:** [Your Name]
-- **Submission Date:** 1 September 2025
