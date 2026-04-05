@@ -1,6 +1,6 @@
 title: "HPQ: UK Climate Change Policy Analysis GH"
 description: "An in-depth analysis of 2 UK climate change policies, ZEV Mandate and Contracts for Difference, evaluating their effectiveness in reducing emissions and increasing sustainable transportation."
-theme: "just-the-docs"
+remote_theme: just-the-docs/just-the-docs
 
 # Navigation
 nav_sort: case_insensitive
