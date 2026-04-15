@@ -6,18 +6,14 @@ nav_order: 1
 # HPQ: Analysing UK Government Climate Policy
 ## Zero Emission Vehicle Mandate & Contracts for Difference
 
-**Author:** [Your Name]  
-**School:** [Your School]  
-**Submission Date:** 1st September 2025  
-**Word Count:** [To be updated]
+### - By Govind Hariharadas
 
 ---
 
 ## Research Question
 
-*"How effective have the UK Government's Zero Emission Vehicle (ZEV) Mandate and 
-Contracts for Difference (CFD) scheme been in accelerating the transition to a 
-low-carbon economy?"*
+*"How effective are the ZEV Mandate and Contracts for Difference scheme as UK climate change policies,
+ based on their economic costs and environmental impact?"*
 
 ---
 
