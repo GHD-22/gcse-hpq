@@ -19,7 +19,7 @@ nav_order: 1
 
 ## Abstract
 
-This project analyses two UK Climate Change Policies - the Contracts for Difference (CFD) scheme and the Zero Emission Vehicles (ZEV) Mandate - and evaluates their effectiveness by examining at how well they achieve their environmental aims, such as reducing greenhouse gas and CO2 emissions. Using Python and Jupyter Notebook, I created a data analysis program to process datasheets downloaded from trusted unbiased sources, including the Office for National Statistics and the Department for Transport. By generating graphs to accurately display the trends in these datasheets, I was able to make evidence-based conclusions about the impacts of each policy
+This project analyses two UK Climate Change Policies - the Contracts for Difference (CFD) scheme and the Zero Emission Vehicles (ZEV) Mandate - and evaluates their effectiveness by examining at how well they achieve their environmental aims, such as reducing greenhouse gas. Using Python and Jupyter Notebook, a data analysis program was developed to process datasets downloaded from trusted, unbiased sources, including the Office for National Statistics (ONS) and the Department for Transport (DfT). By generating graphs to accurately display trends in these datasets, evidence-based conclusions were drawn about the impacta of each policy
 
 ---
 
@@ -45,7 +45,7 @@ All data used in this project is publicly available:
 - **DESNZ** — CFD auction results and strike prices  
 - **LCCC** — Low Carbon Contracts Company reports
 - **ONS** — UK emissions and energy statistics
-
+- **NAO** - Written reports on both policies
 
 ---
 
