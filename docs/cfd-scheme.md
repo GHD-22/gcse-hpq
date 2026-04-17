@@ -7,17 +7,13 @@ nav_order: 4
 
 ## 1. Introduction to the Policy
 
-The Contracts for Difference (CFD) scheme is the UK Government's primary 
-mechanism for supporting investment in new low-carbon electricity generation. 
-First introduced in **2014** under the Energy Act 2013, it replaced the 
-previous Renewables Obligation (RO) system and has become one of the most 
-copied renewable energy policy models in the world.
+The Contracts for Difference (CFD) scheme aims to encourage the development
+of renewable energy in the UK by providing a stable revenue stream to renewable 
+energy developers, making their projects more attractive to private investors. 
+Introduced in 2014 as a key part of the government's Electricity Market Reform 
+programme, the scheme was established through the Energy Act 2013.
 
-Unlike the ZEV Mandate, which is a regulatory instrument, the CFD is a 
-**market-based financial mechanism**. It reduces investment risk for 
-renewable energy developers, enabling them to secure financing for large 
-projects (wind farms, solar parks, tidal etc.) that might otherwise be 
-too commercially uncertain to build.
+
 
 ---
 
