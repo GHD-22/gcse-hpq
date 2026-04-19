@@ -13,32 +13,56 @@ energy developers, making their projects more attractive to private investors.
 Introduced in 2014 as a key part of the government's Electricity Market Reform 
 programme, the scheme was established through the Energy Act 2013.
 
+Before the CFD scheme, the volatility of electricity market prices 
+(meaning the price of electricity in the market tended to fluctuate frequently)
+made it risky for developers to invest in large scale renewable energy projects.
+If wholesale electricity prices fell significantly, the developer would have to 
+deal with serious financial losses, making investors reluctant to fund such projects.
+However, by introducing the CFD scheme, the problem was addressed by guaranteeing 
+developers a fixed price for the electricity the project generates, removing this 
+uncertainty.
+
+Unlike the ZEV Mandate, which puts a legal obligation on vehicle manufacturers, 
+the CFD scheme is a market based financial mechanism, meaning it operates through 
+money and contracts rather than through laws and rules. It does not force anyone to 
+build renewable energy, but rather makes doing so more attractive by reducing the 
+financial risk, encouraging private investors to voluntarily choose to do it themselves.
+
 
 
 ---
 
 ## 2. How the CFD Mechanism Works
 
-The CFD works as a **two-way price guarantee** between a renewable energy 
-developer and the Government (via the Low Carbon Contracts Company, a 
-government-owned company):
+The CFD scheme is a two-way contract between two parties - the renewable energy 
+project developer and the government. More specifically, the Low Carbon Contracts Company 
+(LCCC), which is a government owned company that manages all the CFD contracts.
 
-1. **Strike Price:** The government sets a guaranteed price per megawatt-hour 
-   (MWh) of electricity the developer will receive — agreed at auction.
+The contract works by helping the project achieve a set price per megawatt hour 
+(MWh) of electricity they generate, for the next 15 years. Developers need millions 
+of pounds in order to build and expand these projects, and so by doing this, CFDs 
+give confidence to investors, such as banks and equity investors, so that they can 
+loan large amounts of money to the developer, since they know what to expect from 
+the project in terms of income and they know that the project will be able to pay 
+them back after a set time. This set price is called the strike price, and the actual 
+market rpice at any given time is called the reference price - it goes up and down 
+constantly. 
 
-2. **Reference Price:** The actual market price of electricity at any given time.
+Because of this, there will usually always be a difference in money between the strike 
+price and reference price at any given time, and so, there are two different scenarios 
+which could happen: 
+ - The first scenario is when the market price falls below the strike price. In 
+ this case, the LCCC has to pay off the difference to top up the price the project 
+ receives. This has a negative impact on consumers, since the way the LCCC gets this 
+ money is by introducing levies (called the Supplier Obligation) on energy suppliers 
+ (such as Octopus). Because of this, the suppliers end up increasing the cost of the 
+ energy on consumers' bills
+ - The second scenario is when the market price is above the strike price. Here, the 
+ developer pays the LCCC the difference, which has a positive impact on consumers, 
+ since the inverse happens: distributers get the extra money so they ease the cost 
+ of the energy on consumers' bills
 
-3. **The Difference:**
-   - If the **market price falls below** the strike price → the government 
-     **pays the developer** the difference. This protects the developer 
-     from low prices.
-   - If the **market price rises above** the strike price → the developer 
-     **pays the government** the difference. This protects consumers 
-     from overpaying.
 
-This two-way mechanism is what makes it a "contract for difference" — 
-it stabilises revenue around the agreed strike price regardless of 
-market volatility.
 
 ---
 
