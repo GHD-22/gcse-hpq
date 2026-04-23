@@ -80,23 +80,19 @@ CFD contracts are awarded through **competitive auctions** (called
 | AR5 | 2023 | Offshore wind, solar, tidal, geothermal |
 | AR6 | 2024 | Offshore wind, onshore wind, solar, tidal |
 
-Developers **bid** the lowest strike price at which they are willing to 
-build. The government awards contracts to the cheapest projects first, 
-up to a total capacity budget. This competitive pressure has been a 
+Developers **bid** the lowest strike price at which they are willing to build. The government awards contracts to the cheapest projects first,  up to a total capacity budget. The total capacity budget is the maximum amount of renewable generation (measured in Megawatts or Gigawatts) that the government is willing to support in that auction round, so once enough winning projects are selected to reach that limit, no further ones are accepted. For example the capacity budget could be 1000MW and if the government accepts a project that promises 800 MW of renewable energy generation, the government will only accept projects that are 200MW or lower.  This competitive pressure has been a 
 key driver of **falling renewable energy costs**.
 
 ---
 
 ## 4. Why CFD Has Been Significant
 
-**Cost reduction:** Offshore wind strike prices fell from around **£150/MWh** 
-in AR1 (2015) to **£37/MWh** in AR3 (2019) — a reduction of over 75% in 
-four years. This dramatic cost reduction is widely attributed to the CFD 
-scheme providing the stable revenue certainty needed for manufacturers to 
-invest in scaling up production of turbines and components.
+**Cost reduction:** Offshore wind strike prices fell from around **£140/MWh** 
+in AR1 (2015) to **£40/MWh** in AR3 (2019) — a reduction of roughly over 71% in four years. This sharp cost reduction is widely credited to the CFD scheme guaranteeing the stable revenue needed for manufacturers to 
+invest in increasing production of turbines and other components.
 
-**Capacity growth:** The cumulative capacity of projects awarded CFD 
-contracts now represents a substantial share of UK electricity generation. 
+**Capacity growth:** The capacity of projects awarded CFD 
+contracts now represents a large share of UK electricity generation. 
 By 2024, CFD-supported projects were generating approximately **30% of 
 UK electricity**.
 
