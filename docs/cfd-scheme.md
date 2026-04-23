@@ -80,8 +80,7 @@ CFD contracts are awarded through **competitive auctions** (called
 | AR5 | 2023 | Offshore wind, solar, tidal, geothermal |
 | AR6 | 2024 | Offshore wind, onshore wind, solar, tidal |
 
-Developers **bid** the lowest strike price at which they are willing to build. The government awards contracts to the cheapest projects first,  up to a total capacity budget. The total capacity budget is the maximum amount of renewable generation (measured in Megawatts or Gigawatts) that the government is willing to support in that auction round, so once enough winning projects are selected to reach that limit, no further ones are accepted. For example the capacity budget could be 1000MW and if the government accepts a project that promises 800 MW of renewable energy generation, the government will only accept projects that are 200MW or lower.  This competitive pressure has been a 
-key driver of **falling renewable energy costs**.
+Developers **bid** the lowest strike price at which they are willing to build. The government awards contracts to the cheapest projects first,  up to a total capacity budget. The total capacity budget is the maximum amount of renewable generation (measured in Megawatts or Gigawatts) that the government is willing to support in that auction round, so once enough winning projects are selected to reach that limit, no further ones are accepted. For example the capacity budget could be 1000MW and if the government accepts a project that promises 800 MW of renewable energy generation, the government will only accept projects that are 200MW or lower.  This competitive pressure has been a key driver of **falling renewable energy costs**.
 
 ---
 
