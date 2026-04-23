@@ -91,47 +91,38 @@ in AR1 (2015) to **£40/MWh** in AR3 (2019) — a reduction of roughly over 71% 
 invest in increasing production of turbines and other components.
 
 **Capacity growth:** The capacity of projects awarded CFD 
-contracts now represents a large share of UK electricity generation. 
+contracts, now represents a large share of UK electricity generation. 
 By 2024, CFD-supported projects were generating approximately **30% of 
 UK electricity**.
-
-**Investor confidence:** Because developers know exactly what revenue 
-they will receive over a 15-year contract period, CFDs have unlocked 
-large-scale private investment in UK renewables that would not otherwise 
-have occurred.
 
 ---
 
 ## 5. Criticisms and Challenges
 
-**AR5 failure (2023):** Allocation Round 5 was widely regarded as a 
-significant policy failure. Due to rising inflation and supply chain 
-costs, the government set the maximum bid price (the "administrative 
-strike price") too low. No offshore wind projects bid at all — the 
-first time since the scheme began that offshore wind failed to attract 
-any bids. The government had to rapidly revise prices upward for AR6.
+**AR5 failure (2023):** In Allocation Round 5, the government set the strike price for offshore wind 
+at £44/MWh. Because of inflation and rising supply chain costs, that is, the costs of all the companies 
+and processes involved in making and delivering parts needed to build something, developers needed higher 
+prices in order to make the projects work. As a result, zero offshore wind projects bid in that round - the first 
+complete failure since the scheme was introduced. This meant no new offshore wind capacity was awarded in that round, 
+slowing the UK's renewable energy expansion
 
-**Consumer costs during the energy crisis:** When wholesale electricity 
-prices surged following Russia's invasion of Ukraine in 2022, CFD 
-developers with strike prices well below market rates had to pay 
-large sums back to the government. While this helped consumers, 
-it also raised questions about future developer appetite for CFDs.
-
-**Grid connection delays:** Even when CFD contracts are awarded, 
-projects face lengthy grid connection queues — sometimes 10+ years. 
-This means awarded capacity does not translate immediately into 
-generating electricity.
-
-**Geographic concentration:** CFD-supported capacity is heavily 
-concentrated in offshore wind in the North Sea, with some regions 
-of the UK seeing disproportionate benefits from the scheme.
+**Grid connection delays:** When a wind farm generates electricity it needs to be physically connected to the 
+National Grid, which is a network of cables that distribute electricity across the whole country. This 
+connection requires physical infrastructure as well as engineering work to integrate the new power source into
+the grid. Since hundreds of projects are being awarded CFD contracts over multiple rounds, this forms a queue. 
+This queue has grown  extremely long due to the number of projects and the fact that the grid infrastructure 
+is old and limited in capacity throughout the country - especially in Scotland where a lot of wind is generated. 
+What this means, is that it might take 10+ years for a renewable energy project to be connected to grid after 
+it has been awarded a CFD contract, and in that time, it cannot produce or sell electricity. This means that even 
+when the CFD scheme successfully attracts investment, the electricity may not reach consumers for over a decade, 
+reducing the scheme's effectiveness.
 
 ---
 
 ## 6. Data Analysis
 
-See the [CFD Data Analysis](cfd-analysis) page for charts based on 
-LCCC and DESNZ auction data.
+See the [CFD Data Analysis](cfd-analysis) page for analysis based on 
+NAO reports
 
 ---
 
