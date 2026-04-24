@@ -6,10 +6,11 @@ nav_order: 5
 # CFD Scheme — Analysis
 
 The following analysis references a report containing information about the governments 
-own evaluation of the CFD scheme, conducted between 2018 and 2021, commisioned by the 
-Departemnt for Business, Energy and Industrial Strategy (BEIS). The evaluation assesed 
-the extent to which the scheme was meeting its intended goals and objectives across the 
-first three allocation rounds (AR!, AR2 and AR3).
+own evaluation of the CFD scheme (see [References](references.md) page for Evaluation of 
+the Contracts for Difference Scheme, Phase 2 by BEIS), conducted between 2018 and 2021, 
+commisioned by the Departemnt for Business, Energy and Industrial Strategy (BEIS). The 
+evaluation assesed the extent to which the scheme was meeting its intended goals and 
+objectives across the first three allocation rounds (AR!, AR2 and AR3).
 
 ---
 
