@@ -5,7 +5,7 @@ nav_order: 5
 
 # CFD Scheme — Analysis
 
-The following analysis references a report<sup>[1](#ref1)</sup> containing information about the governments 
+The following analysis references a report<sup>[1](references#ref1)</sup> containing information about the governments 
 own evaluation of the CFD scheme, conducted between 2018 and 2021, commisioned by the 
 Departemnt for Business, Energy and Industrial Strategy (BEIS). The evaluation assesed 
 the extent to which the scheme was meeting its intended goals and objectives across the 
