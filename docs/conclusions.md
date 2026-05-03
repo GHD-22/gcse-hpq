@@ -13,7 +13,7 @@ a fraction of the UK's entire car fleet are BEVs, meaning it needs other policie
 has been broadly effective in attracting private investment in renewable energy and reducing costs for consumers, saving an estimated 
 £3 billion compared to the previous scheme. However, there are still many drawbacks with this policy, such as the fact that these 
 projects might only start generating electricity and get connected to the national grid up to 10 years after they were awarded the 
-contract
+contracts.
 
 Overall, while these policies are showing promising results, they still have many flaws that reduce their long-term effectiveness. 
 That said, it is worth noting that these policies are relatively new, meaning that there is still quite some time until 2050 for 
